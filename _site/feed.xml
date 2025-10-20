@@ -1,0 +1,98 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>MrIncreibl3</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-10-19T03:03:57+00:00</updated>
+  <author>
+    <name>MrIncreibl3</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 MrIncreibl3 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Runner - Hack The Box</title>
+    <link href="http://localhost:4000/posts/runner/" rel="alternate" type="text/html" title="Runner - Hack The Box" />
+    <published>2025-10-17T00:00:00+00:00</published>
+  
+    <updated>2025-10-17T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/runner/</id>
+    <content src="http://localhost:4000/posts/runner/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Runner es una máquina Linux de dificultad media que contiene una vulnerabilidad [CVE-2023-42793] en TeamCity. Esta vulnerabilidad permite a los usuarios eludir la autenticación y extraer un token API, que puede utilizarse para habilitar funciones de depuración para ejecutar comandos del sistema. Al obtener acceso a un contenedor Docker de TeamCity y comprimir los archivos de la base de datos ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Stocker - Hack The Box</title>
+    <link href="http://localhost:4000/posts/stocker/" rel="alternate" type="text/html" title="Stocker - Hack The Box" />
+    <published>2025-10-14T00:00:00+00:00</published>
+  
+    <updated>2025-10-14T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/stocker/</id>
+    <content src="http://localhost:4000/posts/stocker/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Stocker es una máquina Linux de dificultad media que cuenta con un sitio web que se ejecuta en el puerto 80 y que anuncia diversos muebles para el hogar. A través de la enumeración vHost, se identifica el nombre de host dev.stocker.htb y, al acceder a él, se carga una página de inicio de sesión que parece estar construida con NodeJS. Al enviar datos JSON y realizar una inyección NoSQL, se omit...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
