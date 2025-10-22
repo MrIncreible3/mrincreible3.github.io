@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MrIncreibl3</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-19T03:03:57+00:00</updated>
+  <updated>2025-10-22T12:43:35+00:00</updated>
   <author>
     <name>MrIncreibl3</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Editorial - Hack The Box</title>
+    <link href="http://localhost:4000/posts/editorial/" rel="alternate" type="text/html" title="Editorial - Hack The Box" />
+    <published>2025-10-21T00:00:00+00:00</published>
+  
+    <updated>2025-10-21T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/editorial/</id>
+    <content src="http://localhost:4000/posts/editorial/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Editorial es una máquina Linux de dificultad fácil que cuenta con una aplicación web de publicación vulnerable a Falsificación de Solicitud del Lado del Servidor (SSRF). Esta vulnerabilidad se aprovecha para acceder a una API interna en ejecución, que a su vez se utiliza para obtener credenciales que permiten el acceso SSH a la máquina. Al enumerar el sistema, se revela un repositorio Git que...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
