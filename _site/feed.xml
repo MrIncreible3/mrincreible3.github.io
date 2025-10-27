@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MrIncreibl3</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-22T22:16:01+00:00</updated>
+  <updated>2025-10-27T16:17:32+00:00</updated>
   <author>
     <name>MrIncreibl3</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Imagery - Hack The Box</title>
+    <link href="http://localhost:4000/posts/imagery/" rel="alternate" type="text/html" title="Imagery - Hack The Box" />
+    <published>2025-10-24T00:00:00+00:00</published>
+  
+    <updated>2025-10-24T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/imagery/</id>
+    <content src="http://localhost:4000/posts/imagery/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Imagery es una maquina de dificultad Media que al principio del escaneo nos encontramos con una web desarrollada en el lenguaje python werkzeug. Al principio parece una web normal y simple de subida de archivos (imagenes) pero luego nos encontramos con un apartado donde se podian subir reportes de bugs, en esta seccion cargamos un payload en XSS que lo derivamos a un Blind XSS to Admin Accoun...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
