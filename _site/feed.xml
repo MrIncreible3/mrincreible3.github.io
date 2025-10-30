@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MrIncreibl3</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-27T16:17:32+00:00</updated>
+  <updated>2025-10-30T11:59:31+00:00</updated>
   <author>
     <name>MrIncreibl3</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Conversor - Hack The Box</title>
+    <link href="http://localhost:4000/posts/conversor/" rel="alternate" type="text/html" title="Conversor - Hack The Box" />
+    <published>2025-10-29T00:00:00+00:00</published>
+  
+    <updated>2025-10-29T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/conversor/</id>
+    <content src="http://localhost:4000/posts/conversor/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+La maquina conversor de Hack The Box es de dificultad Facil, primero nos encontramos con una aplicacion web alojada en el puerto 80 donde atravez de metodos de FUZZEO captamos un comprimido source_code.tar.gz en ella nos encontramos con el codigo fuente de la web, esta app llamada conversor funciona subiendo un archivo xml y por otro lado un xslt obteniendo como resultado un enlace donde te d...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
