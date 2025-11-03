@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MrIncreibl3</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-10-30T11:59:31+00:00</updated>
+  <updated>2025-11-02T18:43:23+00:00</updated>
   <author>
     <name>MrIncreibl3</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,60 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Previous - Hack The Box</title>
+    <link href="http://localhost:4000/posts/previous/" rel="alternate" type="text/html" title="Previous - Hack The Box" />
+    <published>2025-10-31T00:00:00+00:00</published>
+  
+    <updated>2025-10-31T00:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/previous/</id>
+    <content src="http://localhost:4000/posts/previous/" />
+    <author>
+      <name>MrIncreibl3</name>
+    </author>
+
+  
+    
+    <category term="htb" />
+    
+    <category term="linux" />
+    
+    <category term="Web" />
+    
+    <category term="FuzzLFI" />
+    
+    <category term="SUDO" />
+    
+    <category term="Terradorm" />
+    
+    <category term="LFI" />
+    
+    <category term="CVE" />
+    
+    <category term="NextJS" />
+    
+    <category term="SUDOERS" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+La maquina PREVIOUS de Hack The Box es un entorno de dificultad media que toca una vulnerabilidad de NextJS reciente en el 2025 catalogada como CVE-2025-29927 esta nos permitio bypassear endpoints de la aplicacion y encontrar credenciales de acceso por ssh. Una vez dentro del sistema enumeramos bien para encontrar alguna via de escalada sin embargo nos encontramos con un binario que se puede ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -37,6 +91,26 @@
     <category term="htb" />
     
     <category term="linux" />
+    
+    <category term="Web" />
+    
+    <category term="Fuzz" />
+    
+    <category term="Source_code" />
+    
+    <category term="XML" />
+    
+    <category term="XSLT" />
+    
+    <category term="Upload" />
+    
+    <category term="Local Privilege Escalation" />
+    
+    <category term="CVE-2024-48990" />
+    
+    <category term="SUDOERS" />
+    
+    <category term="needstart" />
     
   
 
@@ -75,6 +149,30 @@ La maquina conversor de Hack The Box es de dificultad Facil, primero nos encontr
     <category term="htb" />
     
     <category term="linux" />
+    
+    <category term="Web" />
+    
+    <category term="Fuzz" />
+    
+    <category term="Python" />
+    
+    <category term="XSS" />
+    
+    <category term="Blind XSS" />
+    
+    <category term="LFI" />
+    
+    <category term="Code Analysis" />
+    
+    <category term="Command Injection" />
+    
+    <category term="Zip.AES" />
+    
+    <category term="Decrypt" />
+    
+    <category term="SUDOERS" />
+    
+    <category term="charcol" />
     
   
 
@@ -165,43 +263,6 @@ Editorial es una máquina Linux de dificultad fácil que cuenta con una aplicaci
       
 
 Runner es una máquina Linux de dificultad media que contiene una vulnerabilidad [CVE-2023-42793] en TeamCity. Esta vulnerabilidad permite a los usuarios eludir la autenticación y extraer un token API, que puede utilizarse para habilitar funciones de depuración para ejecutar comandos del sistema. Al obtener acceso a un contenedor Docker de TeamCity y comprimir los archivos de la base de datos ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Stocker - Hack The Box</title>
-    <link href="http://localhost:4000/posts/stocker/" rel="alternate" type="text/html" title="Stocker - Hack The Box" />
-    <published>2025-10-14T00:00:00+00:00</published>
-  
-    <updated>2025-10-14T00:00:00+00:00</updated>
-  
-    <id>http://localhost:4000/posts/stocker/</id>
-    <content src="http://localhost:4000/posts/stocker/" />
-    <author>
-      <name>MrIncreibl3</name>
-    </author>
-
-  
-    
-    <category term="htb" />
-    
-    <category term="linux" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Stocker es una máquina Linux de dificultad media que cuenta con un sitio web que se ejecuta en el puerto 80 y que anuncia diversos muebles para el hogar. A través de la enumeración vHost, se identifica el nombre de host dev.stocker.htb y, al acceder a él, se carga una página de inicio de sesión que parece estar construida con NodeJS. Al enviar datos JSON y realizar una inyección NoSQL, se omit...
     </summary>
   
 

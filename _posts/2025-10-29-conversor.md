@@ -2,7 +2,7 @@
 layout: post
 title: Conversor - Hack The Box
 date: 2025-10-29
-categories: [htb, linux]
+categories: [htb, linux, Web, Fuzz, Source_code, XML, XSLT, Upload, Local Privilege Escalation, CVE-2024-48990, SUDOERS, needstart]
 tags:  [Linux]
 image:
   path: htb-writeup-conversor/conversor.png
