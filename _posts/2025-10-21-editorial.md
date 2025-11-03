@@ -2,7 +2,7 @@
 layout: post
 title: Editorial - Hack The Box
 date: 2025-10-21
-categories: [htb, linux]
+categories: [Hack The Box, Linux]
 tags:  [Linux, Web, SSRF, Sudoers, API, Github, Gitpython, CVE]
 image:
   path: htb-writeup-editorial/editorial.png

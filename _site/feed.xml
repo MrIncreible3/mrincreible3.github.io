@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>MrIncreibl3</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2025-11-02T18:43:23+00:00</updated>
+  <updated>2025-11-03T00:11:35+00:00</updated>
   <author>
     <name>MrIncreibl3</name>
     <uri>http://localhost:4000/</uri>
@@ -34,25 +34,9 @@
 
   
     
-    <category term="htb" />
+    <category term="Hack The Box" />
     
-    <category term="linux" />
-    
-    <category term="Web" />
-    
-    <category term="FuzzLFI" />
-    
-    <category term="SUDO" />
-    
-    <category term="Terradorm" />
-    
-    <category term="LFI" />
-    
-    <category term="CVE" />
-    
-    <category term="NextJS" />
-    
-    <category term="SUDOERS" />
+    <category term="Linux" />
     
   
 
@@ -78,7 +62,7 @@ La maquina PREVIOUS de Hack The Box es un entorno de dificultad media que toca u
     <link href="http://localhost:4000/posts/conversor/" rel="alternate" type="text/html" title="Conversor - Hack The Box" />
     <published>2025-10-29T00:00:00+00:00</published>
   
-    <updated>2025-10-29T00:00:00+00:00</updated>
+    <updated>2025-11-03T00:00:53+00:00</updated>
   
     <id>http://localhost:4000/posts/conversor/</id>
     <content src="http://localhost:4000/posts/conversor/" />
@@ -88,29 +72,9 @@ La maquina PREVIOUS de Hack The Box es un entorno de dificultad media que toca u
 
   
     
-    <category term="htb" />
+    <category term="Hack The Box" />
     
-    <category term="linux" />
-    
-    <category term="Web" />
-    
-    <category term="Fuzz" />
-    
-    <category term="Source_code" />
-    
-    <category term="XML" />
-    
-    <category term="XSLT" />
-    
-    <category term="Upload" />
-    
-    <category term="Local Privilege Escalation" />
-    
-    <category term="CVE-2024-48990" />
-    
-    <category term="SUDOERS" />
-    
-    <category term="needstart" />
+    <category term="Linux" />
     
   
 
@@ -136,7 +100,7 @@ La maquina conversor de Hack The Box es de dificultad Facil, primero nos encontr
     <link href="http://localhost:4000/posts/imagery/" rel="alternate" type="text/html" title="Imagery - Hack The Box" />
     <published>2025-10-24T00:00:00+00:00</published>
   
-    <updated>2025-10-24T00:00:00+00:00</updated>
+    <updated>2025-11-03T00:00:53+00:00</updated>
   
     <id>http://localhost:4000/posts/imagery/</id>
     <content src="http://localhost:4000/posts/imagery/" />
@@ -146,33 +110,9 @@ La maquina conversor de Hack The Box es de dificultad Facil, primero nos encontr
 
   
     
-    <category term="htb" />
+    <category term="Hack The Box" />
     
-    <category term="linux" />
-    
-    <category term="Web" />
-    
-    <category term="Fuzz" />
-    
-    <category term="Python" />
-    
-    <category term="XSS" />
-    
-    <category term="Blind XSS" />
-    
-    <category term="LFI" />
-    
-    <category term="Code Analysis" />
-    
-    <category term="Command Injection" />
-    
-    <category term="Zip.AES" />
-    
-    <category term="Decrypt" />
-    
-    <category term="SUDOERS" />
-    
-    <category term="charcol" />
+    <category term="Linux" />
     
   
 
@@ -208,9 +148,9 @@ Imagery es una maquina de dificultad Media que al principio del escaneo nos enco
 
   
     
-    <category term="htb" />
+    <category term="Hack The Box" />
     
-    <category term="linux" />
+    <category term="Linux" />
     
   
 
@@ -246,9 +186,9 @@ Editorial es una máquina Linux de dificultad fácil que cuenta con una aplicaci
 
   
     
-    <category term="htb" />
+    <category term="Hack The Box" />
     
-    <category term="linux" />
+    <category term="Linux" />
     
   
 

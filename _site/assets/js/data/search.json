@@ -3,8 +3,8 @@
   {
     "title": "Previous - Hack The Box",
     "url": "/posts/previous/",
-    "categories": "htb, linux, Web, FuzzLFI, SUDO, Terradorm, LFI, CVE, NextJS, SUDOERS",
-    "tags": "Linux",
+    "categories": "Hack The Box, Linux",
+    "tags": "Linux, Web, FuzzLFI, SUDO, Terraform, LFI, CVE, NextJS, SUDOERS",
     "date": "2025-10-31 00:00:00 +0000",
     
 
@@ -20,8 +20,8 @@
   {
     "title": "Conversor - Hack The Box",
     "url": "/posts/conversor/",
-    "categories": "htb, linux, Web, Fuzz, Source_code, XML, XSLT, Upload, Local Privilege Escalation, CVE-2024-48990, SUDOERS, needstart",
-    "tags": "Linux",
+    "categories": "Hack The Box, Linux",
+    "tags": "Linux, Web, Fuzz, Source_code, XML, XSLT, Upload, Local Privilege Escalation, CVE-2024-48990, SUDOERS, needstart",
     "date": "2025-10-29 00:00:00 +0000",
     
 
@@ -37,8 +37,8 @@
   {
     "title": "Imagery - Hack The Box",
     "url": "/posts/imagery/",
-    "categories": "htb, linux, Web, Fuzz, Python, XSS, Blind XSS, LFI, Code Analysis, Command Injection, Zip.AES, Decrypt, SUDOERS, charcol",
-    "tags": "Linux, Web",
+    "categories": "Hack The Box, Linux",
+    "tags": "Linux, Web, Web, Fuzz, Python, XSS, Blind XSS, LFI, Code Analysis, Command Injection, Zip.AES, Decrypt, SUDOERS, charcol",
     "date": "2025-10-24 00:00:00 +0000",
     
 
@@ -54,7 +54,7 @@
   {
     "title": "Editorial - Hack The Box",
     "url": "/posts/editorial/",
-    "categories": "htb, linux",
+    "categories": "Hack The Box, Linux",
     "tags": "Linux, Web, SSRF, Sudoers, API, Github, Gitpython, CVE",
     "date": "2025-10-21 00:00:00 +0000",
     
@@ -71,7 +71,7 @@
   {
     "title": "Runner - Hack The Box",
     "url": "/posts/runner/",
-    "categories": "htb, linux",
+    "categories": "Hack The Box, Linux",
     "tags": "Linux, Web, API, Code, Execution, Suid, CVE, Docker, Portainer",
     "date": "2025-10-17 00:00:00 +0000",
     
@@ -88,7 +88,7 @@
   {
     "title": "Stocker - Hack The Box",
     "url": "/posts/stocker/",
-    "categories": "htb, linux",
+    "categories": "Hack The Box, Linux",
     "tags": "Linux, Fuzz, Wfuzz, LFI, API, Curl, App, Web, Mongo, NoSQL, XSS, Javascript",
     "date": "2025-10-14 00:00:00 +0000",
     
